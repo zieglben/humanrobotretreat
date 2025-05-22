@@ -1,7 +1,11 @@
 # Human-Robot Meditation Retreat: Development, Deployment, and Assessment
 ### Exploring the effectiveness of delivering mindfulness exercises through robots.
+![Pepper and Pupper (1)](https://github.com/user-attachments/assets/49448785-82ee-4e6e-9d2b-cd35934d44fe)
 
-This repository was developed as part of a Senior Capstone project at Oregon State University in collaboration with the CHARISMA lab on campus. The project followed up on a 6-month robot-led meditation series in January – June 2024 by the CHARISMA Lab at OSU.
+
+_Mini-Pupper 2 (left) and Pepper (right) robots were the main systems used for this project as pictured above._
+
+This repository and its contents were developed as part of a Senior Capstone project at Oregon State University from September 2024 - June 2025, in collaboration with the CHARISMA Lab on campus. The project followed up on a 6-month robot-led meditation series from January – June 2024 by the CHARISMA Lab at OSU.
 
 # Why Robots?
 
