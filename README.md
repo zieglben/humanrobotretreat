@@ -1,7 +1,7 @@
 # Human-Robot Meditation Retreat: Development, Deployment, and Assessment
-### Exploring the effectiveness of delivering mindfulness exercises through robots
+### Exploring the effectiveness of delivering mindfulness exercises through robots.
 
-This repository was developed as part of a Senior Capstone project at Oregon State University in collaboration with the CHARISMA lab on campus. The project follows up on a 6-month robot-led meditation series in January – June 2024 by the CHARISMA Lab at OSU.
+This repository was developed as part of a Senior Capstone project at Oregon State University in collaboration with the CHARISMA lab on campus. The project followed up on a 6-month robot-led meditation series in January – June 2024 by the CHARISMA Lab at OSU.
 
 # Why Robots?
 
