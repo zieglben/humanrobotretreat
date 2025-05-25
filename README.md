@@ -66,7 +66,7 @@ humanrobotretreat/
 
 #### Input Script Format
 
-Example (InputScript.txt):
+Example (`InputScript.txt`):
 ```
 1) Hello #wave I am Pepper and I am going to speak about the garden of serenity.
 2) I am #shocked also Pepper #raise_up
@@ -78,7 +78,7 @@ Example (InputScript.txt):
 
 #### Configuration
 
-Example (config.py):
+Example (`config.py`):
 ```
 _PEPPER_IP = '192.168.xx.xxx'_
 _PEPPER_PORT = 9559_
