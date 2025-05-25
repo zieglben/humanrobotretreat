@@ -33,11 +33,12 @@ We used the Python SDK (NAOqi) to create custom scripts for the Pepper robot wit
 humanrobotretreat/
 ├── pynaoqi-python2.7-2.8.6.23... # Official Python SDK for Pepper
 ├── PythonParser/
-│ ├── inputs/ # Input text scripts (InputScript.txt)
-│ ├── outputs/ # Generated files (.wav, .csv)
-│ └── parser.py # Parses script into audio + command timeline
-├── PythonParser2/
-│ └── pepperExecute.py # Executes gestures & audio on Pepper using NAOqi
+│ ├── PythonParser1/
+│ │ ├── inputs/ # Input text scripts (InputScript.txt)
+│ │ ├── outputs/ # Generated files (.wav, .csv)
+│ │ └── parser.py # Parses script into audio + command timeline
+│ ├── PythonParser2/
+│ │ └── pepperExecute.py # Executes gestures & audio on Pepper using NAOqi
 ```
 
 #### Setup Instructions
