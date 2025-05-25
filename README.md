@@ -113,6 +113,27 @@ This will:
 - NAOqi SDK is required and must be sourced for execution
 - Pepper must be **powered on** and reachable via the specified IP
 
+---
+
+### Pepper Behaviors with Choregraphe
+
+We also created visual behavior flows using **Choregraphe**, Aldebaran's official visual programming IDE for the Pepper robot. These behaviors were used for guided meditation and interaction segments of the retreat.
+
+> **Important:**  
+> Please use **Choregraphe version 2.5.10.7** to ensure full compatibility with the NAOqi SDK and Pepper robot.  
+> Other versions may cause compatibility issues or failed deployments.
+
+#### Demo Video
+
+[**Click to play Pepper Demo Video**](https://media.oregonstate.edu/media/t/1_j2n719d6)
+
+#### Description
+
+- Behaviors were built using timeline animation boxes, animated speech, and Python Script boxes in Choregraphe.
+- Motion gestures like `#wave`, `#raise_up`, and `#shocked` were defined and tested inside the timeline editor.
+- Custom scripts enabled more dynamic interactions and transitions during the retreat.
+- These visual behaviors complement the Python-based parser system used in other parts of the project.
+
 # Next Steps
 
 
