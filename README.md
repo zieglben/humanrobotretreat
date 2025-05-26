@@ -11,6 +11,38 @@ This repository and its contents were developed as part of a Senior Capstone pro
 
 Meditation and mindfulness practices have gained popularity in recent years, especially after the COVID-19 pandemic, which increased isolation and stress. While many automated meditation resources, such as apps or scripted videos, offer accessible guidance, they lack the dynamic and embodied interaction that is offered by in-person guided meditation. This project explored how leveraging the physical presence of robots can enhance meditation experiences beyond static, pre-recorded scripts.
 
+## Target Audience
+- Mindfulness practitioners
+  - Stressful students
+  - Busy Faculty
+  - Visistors seeking relaxation
+  - People seeking for new meditation methods/media
+- Wellness retreat organizers
+    - CHARISMA Lab
+    - Capstone team
+    - (See in Acknowledgements) 
+- Human-robot interaction researchers
+- Robots Lover
+- Yoga Enjoyers
+
+## Core Features
+- Robot-led guided meditation with gestures and voice or music
+- Two robotic body with different emotional/visual feedback to participants
+  - Humanoid (Pepper)
+  - Quadroped (Mini-Pupper)
+- Real time, in-person voice and gesture additional guidance with retreat organizer
+- Customizable meditation exercise using scripts
+
+## Benefits
+
+- Embodied presence: Physical presence of the robots and faculty increase the realism of the meditation compared to video/audio  
+- Consistent delivery: Both robots are running with scripts that were revised and tested
+- Increased accessibility: Robots can be more accessible for anyone who purchased or participated the retreat
+- Higher engagement: Curisoty should lead people to experience new way of meditation
+- Customizable interactions: Scripts can be changed based on the needs of the sessions or groups
+- Non-judgmental guidance: Robots can create a much comfortable environment for meditation as it do not judge or react 
+- Scalable deployment: Once refined, the robots should lead the exercises by themselves withou any human intervention
+
 # Retreat Structure
 
 The retreat is designed to be an approximately 3-hour session, balancing participant engagement and robot operational limits. The flow maximizes interaction with multiple robot/system deployments while incorporating natural transitions between activities. While a longer session would give participants more time to interact with the robots, it is also important to consider the robot battery life, audience attention span, and effectiveness of a longer session. 
@@ -57,6 +89,20 @@ The retreat is designed to be an approximately 3-hour session, balancing partici
 
 # Findings
 
+## Core Findings: HRI in Meditation
+
+Through the design, development, and facilitation of this meditation retreat, we gained insight into how humans perceive and interact with robots in wellness contexts.
+
+Participants approached robots with both **interest and confusion**. While many were eager to engage and see what the robots could do, unfamiliarity with meditation practices—or with robots themselves—often made initial interaction challenging.
+
+This highlighted the importance of **clear guidance**, **gentle onboarding**, and **bridging unfamiliar environments** to make robot-assisted meditation more accessible and effective.
+
+
+## Development Challenges
+- **Robot connectivity**: Ensuring stable Wi-Fi in varied locations
+- **Gesture/audio sync**: Timing issues resolved with human intervention
+- **Battery life**: Retreat schedule adjusted to include rest intervals
+- **Room Booking**: Ensure a room big enough for 10-20 people for 3 hours few weeks before deployments
 
 
 # Codebase
@@ -176,15 +222,24 @@ We also created visual behavior flows using **Choregraphe**, Aldebaran's officia
 
 ## Pupper
 
+### Code/File Structure
+
 ### Design
 
+Flow chart of the Mini-pupper
+
+![Picture4](https://github.com/user-attachments/assets/bd767552-1a55-4124-8f67-db81d2dea9b3)
+
+### Set Up Instructions
+
+### How to Run
+
+### Customizable Features
 
 # Next Steps
 
 
 # Acknowledgements
-
-# Contacts
 
 Feel free to contact us via Email or the CHARISMA Lab for more information or anwswering your questions.
 
@@ -203,5 +258,7 @@ Jacob Strand - (strandja@oregonstate.edu)
 Kweon Ho Park - (parkkweo@oregonstate.edu)
 
 Yen-Ting Chou - (chouye@oregonstate.edu)
+
+![retreat_team](https://github.com/user-attachments/assets/8c43c1d9-cc32-4152-83c7-59efd4589311)
 
 
