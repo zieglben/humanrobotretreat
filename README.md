@@ -15,6 +15,46 @@ Meditation and mindfulness practices have gained popularity in recent years, esp
 
 The retreat is designed to be an approximately 3-hour session, balancing participant engagement and robot operational limits. The flow maximizes interaction with multiple robot/system deployments while incorporating natural transitions between activities. While a longer session would give participants more time to interact with the robots, it is also important to consider the robot battery life, audience attention span, and effectiveness of a longer session. 
 
+##  Retreat Schedule (3 Hours)
+
+- **0:00–0:10 — Welcome & Setting Intention**  
+  Pepper and Mini-Pupper introduce themselves and the team. Icebreaker + MC facilitation to begin the day.
+
+- **0:10–0:30 — Robot Cowboy Folies**  
+  LLM-Human folie script with audience sound cues. Explores emotion through story and sound.
+
+- **0:30–1:00 — Mindful Breathing with Robot**  
+  Guided breath meditation by Pepper or human. Transitions participants into silence and mindfulness.
+
+- **1:00–1:15 — Silent Nature Witnessing**  
+  Solo outdoor reflection. Participants observe nature mindfully and return with a found object for VLM analysis.
+
+- **1:15–1:45 — RAIN Guided Meditation**  
+  Jointly led by Pepper and human using Tara Brach’s R.A.I.N. meditation. Emphasizes nature-tech harmony.
+
+- **1:45–2:15 — Puppy Robot Mindful Movement**  
+  Mini-Pupper leads stretching and movement exercises comparing robot and human motion (e.g., yoga + jogging).
+
+- **2:15–2:45 — Closing Circle: Sharing & Chatbot**  
+  Group reflection. Participants share insights while engaging with a listening therapy chatbot.
+
+- **2:45–3:00 — Meditation & Integration**  
+  Final relaxation session with Octodrum robot music and ocean sounds. Guided cool-down and reflection.
+
+
+## Project Timeline & Milestones
+
+| Feature                        | Description                                                                                      | Date                                 | Dependency                                | Assigned to |
+|-------------------------------|--------------------------------------------------------------------------------------------------|--------------------------------------|-------------------------------------------|-------------|
+| Demo Design                   | Structure for demonstrating retreat functions of Pepper and Pupper                              | Fall Term Week 7                     | None                                      | Everyone    |
+| Project development, iteration 1 | Time dedicated to developing the Winter retreat                                                  | Fall Term Weeks 7–10<br>Winter Term Weeks 1–5 | Use design documentation                   | Everyone    |
+| Winter mini retreat 1         | Full meditation retreat with CHARISMA Labs                                                      | 2025.Feb.2nd                          | All prepared robots we have               | Everyone    |
+| Project development, iteration 2 | Time to modify production for Winter retreat 2                                                  | Winter Term Weeks 5–6                | Feedback from Winter retreat 1            | Everyone    |
+| Winter mini retreat 2         | Second retreat with CHARISMA Labs, based on iteration 2                                         | 2025.Feb.22nd                         | All prepared robots we have               | Everyone    |
+| Project development, iteration 3 | Develop production for Spring retreat                                                           | Winter Term Weeks 6–10<br>Spring Term | Feedback from Winter retreat 2            | Everyone    |
+| Spring documentation          | Document findings and design in publishable form for CHARISMA                                  | Post-retreat Spring Term             | Feedback from each iteration              | Everyone    |
+| Engineering Expo              | Final project presentation and showcase                                                         | Friday, June 6                        | Final poster for the expo                 | Everyone    |
+
 # Findings
 
 
@@ -134,8 +174,34 @@ We also created visual behavior flows using **Choregraphe**, Aldebaran's officia
 - Custom scripts enabled more dynamic interactions and transitions during the retreat.
 - These visual behaviors complement the Python-based parser system used in other parts of the project.
 
+## Pupper
+
+### Design
+
+
 # Next Steps
 
 
 # Acknowledgements
+
+# Contacts
+
+Feel free to contact us via Email or the CHARISMA Lab for more information or anwswering your questions.
+
+Lab Manager:
+
+Heather Knight - (heather.knight@oregonstate.edu)
+
+Team Members:
+
+Ben Ziegler - (zieglben@oregonstate.edu)
+
+Eliane Wang - (wangel@oregonstate.edu) 
+
+Jacob Strand - (strandja@oregonstate.edu)
+
+Kweon Ho Park - (parkkweo@oregonstate.edu)
+
+Yen-Ting Chou - (chouye@oregonstate.edu)
+
 
