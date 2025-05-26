@@ -262,6 +262,7 @@ Kweon Ho Park - (parkkweo@oregonstate.edu)
 
 Yen-Ting Chou - (chouye@oregonstate.edu)
 
-![retreat_team](https://github.com/user-attachments/assets/8c43c1d9-cc32-4152-83c7-59efd4589311)
+![retreat team](https://github.com/user-attachments/assets/77d1fb80-701d-434a-aa41-ea6c2ea10378)
+
 
 
