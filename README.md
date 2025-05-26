@@ -36,16 +36,17 @@ Meditation and mindfulness practices have gained popularity in recent years, esp
 ## Benefits
 
 - Embodied presence: Physical presence of the robots and faculty increase the realism of the meditation compared to video/audio  
-- Consistent delivery: Both robots are running with scripts that were revised and tested
+- Consistent delivery: Both robots were run with scripts that were revised and tested over multiple iterations of the retreat
 - Increased accessibility: Robots can be more accessible for anyone who purchased or participated the retreat
-- Higher engagement: Curisoty should lead people to experience new way of meditation
-- Customizable interactions: Scripts can be changed based on the needs of the sessions or groups
-- Non-judgmental guidance: Robots can create a much comfortable environment for meditation as it do not judge or react 
-- Scalable deployment: Once refined, the robots should lead the exercises by themselves withou any human intervention
+- Higher engagement: Curiosity leads people to experience new way of meditation and explore the inner-workings of robotics at the same time
+- Customizable interactions: The scripts we developed can be changed based on the needs of the sessions or groups
+- Scalable deployment: Once refined, the robots can lead the exercises by themselves with little human-in-the-loop intervention
 
 # Retreat Structure
 
-The retreat is designed to be an approximately 3-hour session, balancing participant engagement and robot operational limits. The flow maximizes interaction with multiple robot/system deployments while incorporating natural transitions between activities. While a longer session would give participants more time to interact with the robots, it is also important to consider the robot battery life, audience attention span, and effectiveness of a longer session. 
+The structure for our deployments was modeled after a certain style of group mindfulness, retreats. Retreats are commonly in remote areas, away from distraction and the busyness of life. Our goal was to create an entirely encapsulated experience and limit distractions from the outside world. The two retreats we held were in a large lecture room in the Kelley Engineering Center on the Oregon State University campus. The room we selected had floor to ceiling windows to view the outside world, but offered an enclosed experience for the participants. The presence of these windows aided in the nature portions of the retreat, as detailed below. 
+
+While many retreats are designed as weekend getaways, the schedule we developed fits within a 3-hour window and went through two iterations to reach its final form below. The 3-hour session balances participant engagement and robot operational limits, while allowing enough time for transition and individual, silent reflection. While a longer session would give participants more time to interact with the robots, it is also important to consider the robot battery life, audience attention span, and effectiveness of a longer session. With our time developing the robot programs, we found that longer sessions without human intervention often lost the attention of the participants, which helped us reach the timing in our schedule below. 
 
 ##  Retreat Schedule (3 Hours)
 
@@ -83,26 +84,28 @@ The retreat is designed to be an approximately 3-hour session, balancing partici
 | Winter mini retreat 1         | Full meditation retreat with CHARISMA Labs                                                      | 2025.Feb.2nd                          | All prepared robots we have               | Everyone    |
 | Project development, iteration 2 | Time to modify production for Winter retreat 2                                                  | Winter Term Weeks 5–6                | Feedback from Winter retreat 1            | Everyone    |
 | Winter mini retreat 2         | Second retreat with CHARISMA Labs, based on iteration 2                                         | 2025.Feb.22nd                         | All prepared robots we have               | Everyone    |
-| Project development, iteration 3 | Develop production for Spring retreat                                                           | Winter Term Weeks 6–10<br>Spring Term | Feedback from Winter retreat 2            | Everyone    |
 | Spring documentation          | Document findings and design in publishable form for CHARISMA                                  | Post-retreat Spring Term             | Feedback from each iteration              | Everyone    |
 | Engineering Expo              | Final project presentation and showcase                                                         | Friday, June 6                        | Final poster for the expo                 | Everyone    |
 
-# Findings
+# Core Findings: HRI with Meditation
 
-## Core Findings: HRI in Meditation
+Through the design, development, and facilitation of this meditation retreat, we gained insight into how humans perceive and interact with robots in wellness contexts. Participants often approached the robots with both **interest and confusion**. While many were eager to engage and see what the robots could do, unfamiliarity with meditation practices—or with robots themselves—often made initial interaction challenging. This highlighted the importance of **clear guidance**, **gentle onboarding**, and **bridging unfamiliar environments** to make robot-assisted meditation more accessible and effective.
 
-Through the design, development, and facilitation of this meditation retreat, we gained insight into how humans perceive and interact with robots in wellness contexts.
+The natural solution, a human-in-the-loop approach, was often reached with our robot deployments, especially with the coordinate system stretching using the Mini-Pupper 2. The Mini-Pupper has a very rigid body, with not much room for expression, so while it may have seemed very clear what the intended movements were for the development team, the audience often found it difficult to understand what they were to do without a human demonstration alongside the robot. This human-in-the-loop approach bridged the gap between the robot coordinate system and the human coordinate system in a way that made sense for participants who had no prior knowledge of the activities during that portion of the retreat. 
 
-Participants approached robots with both **interest and confusion**. While many were eager to engage and see what the robots could do, unfamiliarity with meditation practices—or with robots themselves—often made initial interaction challenging.
+Social setup, room layout, and egocentric vs exocentric instructions also impacted the delivery of the Mini-Pupper exercise and stretching routines. With more people in the room at our first iteration, it was more difficult to find space and settle on a placement of participants that didn't limit anyone's view of the robot or overall experience. As pictured below, the layout we decided on was the robot and human facilitator up front, and everyone else spaced evenly behind the robot. Modeling after a yoga or exercise class, the human facilitator faced the audience and provided mostly egocentric instructions from the perspective of the audience, which made it much easier for participants to understand their instructions. While this approach likely removes the need for a robot instructor, as the human is much more expressive and instructive, we found that the robot served as a necessary and interesting distraction. 
 
-This highlighted the importance of **clear guidance**, **gentle onboarding**, and **bridging unfamiliar environments** to make robot-assisted meditation more accessible and effective.
+![Retreat social layout (1)](https://github.com/user-attachments/assets/1a2a8b6d-2e30-4a5d-ac52-6d64657128d6) 
 
+_Mini-Pupper activity social diagram_
+
+Drawing from their time developing the program and knowledge of programming, the human facilitator often revealed behind-the-scenes information about the development process in the form of instructions. For example, the exercise routine is mostly coded using a looping structure, so when participants asked how long the routine was, the instructor hinted at it being a simple loop, offering both comedic relief and a better understanding of the inner-workings of the Mini-Pupper's programming. We found that while the retreat was intended to be a quiet, relaxing experience, humor often found its way in and enhanced the experience for everyone involved. Therefore, for the second retreat, the Mini-Pupper team iterated upon that to create funny vocal scripts for the robot to use when introducing the team and itself that referenced the audience to deliver some of its comedy. 
 
 ## Development Challenges
 - **Robot connectivity**: Ensuring stable Wi-Fi in varied locations
 - **Gesture/audio sync**: Timing issues resolved with human intervention
 - **Battery life**: Retreat schedule adjusted to include rest intervals
-- **Room Booking**: Ensure a room big enough for 10-20 people for 3 hours few weeks before deployments
+- **Room booking**: Ensure a room big enough for 10-20 people for 3 hours few weeks before deployments
 
 
 # Codebase
