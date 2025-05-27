@@ -300,6 +300,7 @@ We also created visual behavior flows using **Choregraphe**, Aldebaran's officia
 
 Our implementation of the Mini-Pupper code builds off of the open-source repository from MangDang robotics club, the manufacturers of the robot. Relying heavily on their implementation of the [**Stanford Pupper**](https://github.com/mangdangroboticsclub/StanfordQuadruped), and building upon the CHARISMA lab's implementation, we added more movements to the movement library and created modular, application-level programs for each of the Mini-Pupper-led activities. 
 
+> **Important:**   
 > In this repository, we have only included files with changes implemented by our team for this project. The actual repository loaded onto the robot is private, as it is used internally by the CHARISMA Lab at Oregon State University. 
 
 ### Design
@@ -330,6 +331,7 @@ The human facilitator experimented with variations to jogging in place, includin
 
 ### Set Up Instructions
 
+> **Important:**   
 > Since the implementation of the Mini-Pupper 2 that we used was stored locally on the CHARISMA Lab's robot, please refer to [MangDang Robotics Club's public Github repository](https://github.com/mangdangroboticsclub) for instructions on how to set up the robot. Each of the programs is run using Python 3. 
 
 # Next Steps
