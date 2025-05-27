@@ -338,6 +338,3 @@ The human robot retreat may host the retreat with other universities due to inte
 CHARISMA Robotics Lab
 
 ![retreat team](https://github.com/user-attachments/assets/77d1fb80-701d-434a-aa41-ea6c2ea10378)
-
-
-
