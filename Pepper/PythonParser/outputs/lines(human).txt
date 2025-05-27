@@ -1,0 +1,2 @@
+	robot: 1) Hello #wave I am Pepper
+	robot: 1) #talk1 I'm testing for record this videos
