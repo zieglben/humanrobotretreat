@@ -310,11 +310,15 @@ _Each application is broken into repeatable sub-sections, with time for rest in 
 
 #### Warmup 
 
-Outlined in ```MiniPupper2/run_warmup.py```, the Pupper uses its body to simulate human head movement to guide the audience to stretch their neck in sync with the robot. While the robot does not have a movable head like humans do, this movement pattern is easily recognizable for participants, as it changes the direction the robot is looking, which is easily translatable to the human body. The routine starts with simple up, down, left, right head movements, follows up with head circles, and ends with body tilts. The body tilts roughly translate to leaning from the torso for a human. The following video demonstrates this routine: 
+Outlined in ```MiniPupper2/run_warmup.py```, the Pupper uses its body to simulate human head movement to guide the audience to stretch their neck in sync with the robot. While the robot does not have a movable head like humans do, this movement pattern is easily recognizable for participants, as it changes the direction the robot is looking, which is easily translatable to the human body. The routine starts with simple up, down, left, right head movements, follows up with head circles, and ends with body tilts. The body tilts roughly translate to leaning from the torso for a human. 
+
+[**Click to play the warmup demonstration video.**](https://drive.google.com/file/d/1cdELm2RMC239-8051NWDhyxz2bMWOgNs/view)
 
 #### Yoga 
 
-In this section outlined in ```MiniPupper2/run_yoga.py```, the Pupper gets more involved, guiding the audience through a simple yoga routine starting with cat/cow, then moving into leg/arm lifts. We experimented with a dead-bug-style leg movement with the robot laying on its back, but it proved to be more confusing than intended during our second deployment. This is included in the file, however. The following video demonstrates this routine:
+In this section outlined in ```MiniPupper2/run_yoga.py```, the Pupper gets more involved, guiding the audience through a simple yoga routine starting with cat/cow, then moving into leg/arm lifts. We experimented with a dead-bug-style leg movement with the robot laying on its back, but it proved to be more confusing than intended during our second deployment. This is included in the file, however. 
+
+[**Click to play the yoga demonstration video.**](https://drive.google.com/file/d/1pVH1zF54urSQGWJVxLGC2njPFKu3Qoag/view)
 
 #### Exercise Routine
 
