@@ -285,7 +285,7 @@ We also created visual behavior flows using **Choregraphe**, Aldebaran's officia
 
 #### Demo Video
 
-[**Click to play Pepper Demo Video**](https://media.oregonstate.edu/media/t/1_j2n719d6)
+[**Click to play Pepper Demo Video**](https://drive.google.com/file/d/1mIBocNKtxY7rsPaz0JRmcqT-sICqGWna/view?usp=drive_link)
 
 #### Description
 
