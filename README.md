@@ -326,23 +326,16 @@ The human robot retreat may host the retreat with other universities due to inte
 
 # Acknowledgements
 
-Feel free to contact us via Email or the CHARISMA Lab for more information or anwswering your questions.
+**Team Members:**
+- Ben Ziegler – zieglben@oregonstate.edu
+- KweonHo Park – parkkweo@oregonstate.edu
+- Eliane Wang – wangel@oregonstate.edu
+- Yen-Ting Chou – chouye@oregonstate.edu
+- Jacob Strand – strandja@oregonstate.edu
 
-Lab Manager:
-
-Heather Knight - (heather.knight@oregonstate.edu)
-
-Team Members:
-
-Ben Ziegler - (zieglben@oregonstate.edu)
-
-Eliane Wang - (wangel@oregonstate.edu) 
-
-Jacob Strand - (strandja@oregonstate.edu)
-
-Kweon Ho Park - (parkkweo@oregonstate.edu)
-
-Yen-Ting Chou - (chouye@oregonstate.edu)
+**Project Partner:**
+- Dr. Heather Knight - heather.knight@oregonstate.edu,
+CHARISMA Robotics Lab
 
 ![retreat team](https://github.com/user-attachments/assets/77d1fb80-701d-434a-aa41-ea6c2ea10378)
 
