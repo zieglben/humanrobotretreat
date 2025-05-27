@@ -13,7 +13,7 @@ Meditation and mindfulness practices have gained popularity in recent years, esp
 
 ## Target Audience
 - Mindfulness practitioners
-  - Stressful students
+  - Stressed students
   - Busy Faculty
   - Visistors seeking relaxation
   - People seeking for new meditation methods/media
@@ -26,8 +26,8 @@ Meditation and mindfulness practices have gained popularity in recent years, esp
 - Yoga Enjoyers
 
 ## Core Features
-- Robot-led guided meditation with gestures and voice or music
-- Two robotic body with different emotional/visual feedback to participants
+- Robot-led guided meditation with gestures, voice, and music
+- Two robots with different body shapes displaying emotional and visual feedback to participants
   - Humanoid (Pepper)
   - Quadroped (Mini-Pupper)
 - Real time, in-person voice and gesture additional guidance with retreat organizer
@@ -44,11 +44,11 @@ Meditation and mindfulness practices have gained popularity in recent years, esp
 
 # Retreat Structure
 
-The structure for our deployments was modeled after a certain style of group mindfulness, retreats. Retreats are commonly in remote areas, away from distraction and the busyness of life. Our goal was to create an entirely encapsulated experience and limit distractions from the outside world. The two retreats we held were in a large lecture room in the Kelley Engineering Center on the Oregon State University campus. The room we selected had floor to ceiling windows to view the outside world, but offered an enclosed experience for the participants. The presence of these windows aided in the nature portions of the retreat, as detailed below. 
+The structure for our deployments was modeled after a certain style of group mindfulness, retreats. Retreats are commonly in remote areas, away from distraction and the business of life. Our goal was to create an entirely encapsulated experience and limit distractions from the outside world. The two retreats we held were in a lecture room in the Kelley Engineering Center on the Oregon State University campus. The room we selected had floor to ceiling windows to view the outside world, but offered an enclosed experience for the participants. The presence of these windows aided in the nature portions of the retreat, as detailed below. 
 
 While many retreats are designed as weekend getaways, the schedule we developed fits within a 3-hour window and went through two iterations to reach its final form below. The 3-hour session balances participant engagement and robot operational limits, while allowing enough time for transition and individual, silent reflection. While a longer session would give participants more time to interact with the robots, it is also important to consider the robot battery life, audience attention span, and effectiveness of a longer session. With our time developing the robot programs, we found that longer sessions without human intervention often lost the attention of the participants, which helped us reach the timing in our schedule below. 
 
-Importantly, the retreat structure is modular, allowing facilitators to modify the experience as needed. Each segment can be used independently, which supports future template development and broader adoption by non-technical audiences. The retreat schedule is as follows:
+Importantly, the retreat structure is modular, allowing facilitators to modify and add to the experience as needed. Each segment can be used independently, which supports future template development, modular design, and broader adoption by non-technical audiences. The retreat schedule is as follows:
 
 ##  Retreat Schedule (3 Hours)
 
@@ -173,7 +173,7 @@ _Mini-Pupper activity social diagram_
 Drawing from their time developing the program and knowledge of programming, the human facilitator often revealed behind-the-scenes information about the development process in the form of instructions. For example, the exercise routine is mostly coded using a looping structure, so when participants asked how long the routine was, the instructor hinted at it being a simple loop, offering both comedic relief and a better understanding of the inner-workings of the Mini-Pupper's programming. We found that while the retreat was intended to be a quiet, relaxing experience, humor often found its way in and enhanced the experience for everyone involved. Therefore, for the second retreat, the Mini-Pupper team iterated upon that to create funny vocal scripts for the robot to use when introducing the team and itself that referenced the audience to deliver some of its comedy. 
 
 ## Development Challenges
-- **Robot connectivity**: Ensuring stable Wi-Fi in varied locations
+- **Robot connectivity**: Ensuring stable Wi-Fi and power in varied locations 
 - **Gesture/audio sync**: Timing issues resolved with human intervention
 - **Battery life**: Retreat schedule adjusted to include rest intervals
 - **Room booking**: Ensure a room big enough for 10-20 people for 3 hours few weeks before deployments
