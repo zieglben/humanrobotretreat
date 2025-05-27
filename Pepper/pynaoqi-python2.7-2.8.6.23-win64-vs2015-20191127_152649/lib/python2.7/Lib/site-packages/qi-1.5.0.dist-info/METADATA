@@ -1,0 +1,33 @@
+Metadata-Version: 2.1
+Name: qi
+Version: 1.5.0
+Summary: LibQi Python for NAOqi
+Home-page: http://doc.aldebaran.com
+Author: SoftBank Robotics
+Author-email: release@softbankrobotics.com
+License: UNKNOWN
+Keywords: naoqi softbank nao pepper romeo robot
+Platform: w
+Platform: i
+Platform: n
+Platform: -
+Platform: a
+Platform: m
+Platform: d
+Platform: 6
+Platform: 4
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Intended Audience :: Developers
+Classifier: Topic :: Software Development :: Embedded Systems
+Classifier: Framework :: Robot Framework :: Tool
+Classifier: Programming Language :: Python :: 2
+Classifier: Programming Language :: Python :: 2.7
+Classifier: Operating System :: Microsoft :: Windows
+Requires-Python: >=2.6, <3
+
+LibQi Python bindings for NAOqi
+
+---
+
+Used to control SoftBank Robotics NAO and Pepper
+
