@@ -69,7 +69,7 @@ Importantly, the retreat structure is modular, allowing facilitators to modify t
 
 <details>
 
-<summary>1:15–1:45 —  RAIN Guided Meditation: Technology & Nature</summary>
+<summary> 1:15–1:45 —  RAIN Guided Meditation: Technology & Nature</summary>
 
 - A guided meditation inspired by Tara Brach’s R.A.I.N. technique.
 - Combination of Pepper’s custom intro and human-guided audio.
@@ -120,6 +120,19 @@ Importantly, the retreat structure is modular, allowing facilitators to modify t
 # Codebase
 
 # Next Steps
+
+### Retreat Tour
+
+The human robot retreat may host the retreat with other universities due to interest generated at ICRA.
+
+**Tentative Tour Stops (Aug 2025 – Jan 2026):**
+- University of Iowa
+- University of California Santa Cruz
+- University of California Los Angeles
+- University of Texas at Austin
+- Simon Fraser University
+- University of Washington
+
 
 
 # Acknowledgements
