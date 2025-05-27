@@ -332,7 +332,7 @@ The human facilitator experimented with variations to jogging in place, includin
 ### Set Up Instructions
 
 > **Important:**   
-> Since the implementation of the Mini-Pupper 2 that we used was stored locally on the CHARISMA Lab's robot, please refer to [MangDang Robotics Club's public Github repository](https://github.com/mangdangroboticsclub) for instructions on how to set up the robot. Each of the programs is run using Python 3. 
+> Since the implementation of the Mini-Pupper 2 that we used was stored locally on the CHARISMA Lab's robot, please refer to the [Stanford Quadruped implementation on the MangDang Robotics Club Github](https://github.com/mangdangroboticsclub/StanfordQuadruped) for instructions on how to set up the robot. Each of the programs is run using Python 3. 
 
 # Next Steps
 
