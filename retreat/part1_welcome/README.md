@@ -1,6 +1,3 @@
-<!-- README for Mini-Pupper portion of retreat -->
-<!-- NOT FINAL, NEEDS TO BE UPDATED -->
-
 ## Pepper
 
 We created visual behavior flows using **Choregraphe**, Aldebaran's official visual programming IDE for the Pepper robot. These behaviors were used to introduce participants to the retreat, establish an embodied presence, and transition them smoothly into the mindfulness portion of the experience.
@@ -37,7 +34,7 @@ This segment was designed to align with the human MC's pacing and create a welco
 
 To explore or run this behavior in Choregraphe:
 1. Download the [```Meditation Retreat```](Meditation%20Retreat/) folder in this repository.
-2. Open the [```Meditation Retreat.pml```](./Meditation%20Retreat.pml) file using Choregraphe 2.5.10.7.
+2. Open the [```Meditation Retreat.pml```](Meditation%20Retreat/Meditation%20Retreat.pml) file using Choregraphe 2.5.10.7.
 3. Connect to Pepper and deploy the behavior directly from Choregraphe.
 
 > Make sure your computer and Pepper are on the same network before launching the project.
