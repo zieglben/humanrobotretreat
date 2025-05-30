@@ -16,7 +16,8 @@ We created visual behavior flows using **Choregraphe**, Aldebaran's official vis
 **Flow Summary:**  
 Pepper begins by greeting the audience with a wave and introducing the day’s intention.  
 Then it previews each upcoming activity in order:
-- Robot Cowboy Folies, Silent Nature Witnessing, RAIN Meditation, Puppy Robot Movement, and the Closing Circle, etc.  
+- Robot Cowboy Folies, Silent Nature Witnessing, RAIN Meditation, Puppy Robot Movement, and the Closing Circle, etc.
+  
 The entire intro is designed to be ~5 minutes long with pauses and gestures for emphasis.
 
 **Each behavior was structured using a combination of:**
