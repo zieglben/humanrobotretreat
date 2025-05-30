@@ -1,7 +1,7 @@
 <!-- README for Mini-Pupper portion of retreat -->
 <!-- NOT FINAL, NEEDS TO BE UPDATED -->
 
-# Mini-Pupper
+# Puppy Mindfulness with Mini Pupper
 
 ## Code/File Structure
 
