@@ -65,13 +65,16 @@ Meditation and mindfulness practices have gained popularity in recent years, esp
     gantt
     dateFormat  YYYY-MM-DD
     title Project Timeline
+    excludes 2024-12-13, 2024-12-14, 2024-12-15, 2024-12-16, 2024-12-17, 2024-12-18, 2024-12-19, 2024-12-20, 2024-12-21, 2024-12-22, 2024-12-23, 2024-12-24, 2024-12-25, 2024-12-26, 2024-12-27, 2024-12-28, 2024-12-29, 2024-12-30, 2024-12-31, 2025-1-1, 2025-1-2, 2025-1-3, 2025-1-4, 2025-1-6
 
     section Fall 2024
     Ideation Phase           :ideate, 2024-10-4, 2024-11-10
     Design Phase             :design, 2024-10-20, 2024-11-17
-    Dev Iteration 1          :dev1, 2024-11-8, until retreat1
+    Dev Iteration 1          :dev1, 2024-11-8, 2024-12-13
 
     section Winter 2025
+    Winter Break             :break, after dev1, 2025-1-6
+    Dev Iteration 1          :dev1_2, 2025-1-6, until retreat1
     Feb 2 Winter Retreat 1   :crit,milestone, retreat1, 2025-02-02, 0d
     Dev Iteration 2          :dev2, after retreat1, until retreat2
     Feb 22 Winter Retreat 2         :crit, milestone, retreat2, 2025-02-22, until docs
