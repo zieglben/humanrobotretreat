@@ -15,7 +15,6 @@ The published version of our 2/22 schedule is located [here](./2_22%20Human-Robo
 
 <object data="./2_22%20Human-Robot%20Meditation%20Retreat%20II.pdf" type="application/pdf" width="750px" height="750px">
     <embed src="./2_22%20Human-Robot%20Meditation%20Retreat%20II.pdf" type="application/pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="./2_22%20Human-Robot%20Meditation%20Retreat%20II.pdf">Download PDF</a>.</p>
     </embed>
 </object>
 
