@@ -2,7 +2,7 @@
 
 ## An exercise in patience, observation, and comparison.
 
-![nature collection](./nature.JPG)
+![nature collection](../../moreInfo/media/nature.JPG)
 _Mini Pupper next to the items brought back by participants during the 2/22 retreat_
 
 In this portion of the retreat, participants were encouraged to _silently_ take a 15-minute walk outside of the retreat room, focusing on observing the nature around them. This form of visual, self-led mindfulness was a refreshing break in the otherwise enclosed experience. Continuing the _noble silence_, this section served as a focused intermission.
