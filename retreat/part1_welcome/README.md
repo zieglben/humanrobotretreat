@@ -36,8 +36,8 @@ This segment was designed to align with the human MC's pacing and create a welco
 > Other versions may cause compatibility issues or failed deployments.
 
 To explore or run this behavior in Choregraphe:
-1. Download the [```Meditation Retreat```](Meditation Retreat/) folder in this repository.
-2. Open the [```Meditation Retreat.pml```](./Meditation Retreat.pml) file using Choregraphe 2.5.10.7.
+1. Download the [```Meditation Retreat```](Meditation%20Retreat/) folder in this repository.
+2. Open the [```Meditation Retreat.pml```](./Meditation%20Retreat.pml) file using Choregraphe 2.5.10.7.
 3. Connect to Pepper and deploy the behavior directly from Choregraphe.
 
 > Make sure your computer and Pepper are on the same network before launching the project.
