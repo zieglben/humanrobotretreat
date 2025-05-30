@@ -61,16 +61,25 @@ Meditation and mindfulness practices have gained popularity in recent years, esp
 <!--This needs to be updated to just be important milestones, maybe a Gantt chart? -->
 ## Project Timeline & Milestones
 
-| Feature                        | Description                                                                                      | Date                                 | Dependency                                | Assigned to |
-|-------------------------------|--------------------------------------------------------------------------------------------------|--------------------------------------|-------------------------------------------|-------------|
-| Demo Design                   | Structure for demonstrating retreat functions of Pepper and Pupper                              | Fall Term Week 7                     | None                                      | Everyone    |
-| Project development, iteration 1 | Time dedicated to developing the Winter retreat                                                  | Fall Term Weeks 7–10<br>Winter Term Weeks 1–5 | Use design documentation                   | Everyone    |
-| Winter mini retreat 1         | Full meditation retreat with CHARISMA Labs                                                      | 2025.Feb.2nd                          | All prepared robots we have               | Everyone    |
-| Project development, iteration 2 | Time to modify production for Winter retreat 2                                                  | Winter Term Weeks 5–6                | Feedback from Winter retreat 1            | Everyone    |
-| Winter mini retreat 2         | Second retreat with CHARISMA Labs, based on iteration 2                                         | 2025.Feb.22nd                         | All prepared robots we have               | Everyone    |
-| Spring documentation          | Document findings and design in publishable form for CHARISMA                                  | Post-retreat Spring Term             | Feedback from each iteration              | Everyone    |
-| Engineering Expo              | Final project presentation and showcase                                                         | Friday, June 6                        | Final poster for the expo                 | Everyone    |
+```mermaid
+    gantt
+    dateFormat  YYYY-MM-DD
+    title Project Timeline
 
+    section Fall 2024
+    Ideation Phase           :ideate, 2024-10-4, 2024-11-10
+    Design Phase             :design, 2024-10-20, 2024-11-17
+    Dev Iteration 1          :dev1, 2024-11-8, until retreat1
+
+    section Winter 2025
+    Feb 2 Winter Retreat 1   :crit,milestone, retreat1, 2025-02-02, 0d
+    Dev Iteration 2          :dev2, after retreat1, until retreat2
+    Feb 22 Winter Retreat 2         :crit, milestone, retreat2, 2025-02-22, until docs
+
+    section Spring 2025
+    Documentation/Expo Prep  :docs, 2025-02-23, 2025-06-05
+    June 6 Engineering Expo    :milestone, expo, 2025-06-06, 0d
+```
 
 # Acknowledgements
 
