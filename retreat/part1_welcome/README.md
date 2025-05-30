@@ -34,3 +34,10 @@ This segment was designed to align with the human MC's pacing and create a welco
 > **Important:**  
 > Please use **Choregraphe version 2.5.10.7** to ensure full compatibility with the NAOqi SDK and Pepper robot.  
 > Other versions may cause compatibility issues or failed deployments.
+
+To explore or run this behavior in Choregraphe:
+1. Download the [```Meditation Retreat```](Meditation Retreat/) folder in this repository.
+2. Open the [```Meditation Retreat.pml```](./Meditation Retreat.pml) file using Choregraphe 2.5.10.7.
+3. Connect to Pepper and deploy the behavior directly from Choregraphe.
+
+> Make sure your computer and Pepper are on the same network before launching the project.
