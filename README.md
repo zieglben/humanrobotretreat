@@ -20,7 +20,6 @@ humanrobotretreat/
 ├── moreInfo/
 │ ├── setup/ # getting started guides and helpful resources
 ├── futureWork/
-│ ├──
 ```
 
 # Why Robots?
@@ -38,7 +37,7 @@ Meditation and mindfulness practices have gained popularity in recent years, esp
     - Capstone team
     - (See in Acknowledgements) 
 - Human-robot interaction researchers
-- Robots Lover
+- Robot Enthusiasts
 - Yoga Enjoyers
 
 ## Core Features
@@ -46,8 +45,8 @@ Meditation and mindfulness practices have gained popularity in recent years, esp
 - Two robots with different body shapes displaying emotional and visual feedback to participants
   - Humanoid (Pepper)
   - Quadroped (Mini-Pupper)
-- Real time, in-person voice and gesture additional guidance with retreat organizer
-- Customizable meditation exercise using scripts
+- Real time, in-person voice and gesture additional guidance from the human facilitators
+- Customizable meditation exercises using scripts and modular code
 
 ## Benefits
 
