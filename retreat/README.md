@@ -33,8 +33,9 @@ The published version of our 2/22 schedule is located [here](./2_22%20Human-Robo
 
 </details>
 
-</details>
-
+***
+**Begin Noble Silence**
+***
 <details>
 
 **<summary> 0:30–1:00 — Mindful Breathing with Robot: An Exercise in Silence and Noticing</summary>**
@@ -42,8 +43,6 @@ The published version of our 2/22 schedule is located [here](./2_22%20Human-Robo
 - Guided breath meditation with soft, calming voice.
 - Transitions into the silent portion of the retreat.
 - Focused on grounding participants in the present and preparing for deeper reflection.
-
-</details>
 
 </details>
 
@@ -58,8 +57,6 @@ The published version of our 2/22 schedule is located [here](./2_22%20Human-Robo
 
 </details>
 
-</details>
-
 <details>
 
 **<summary> 1:15–1:45 —  RAIN Guided Meditation: Technology & Nature</summary>**
@@ -70,7 +67,6 @@ The published version of our 2/22 schedule is located [here](./2_22%20Human-Robo
 
 </details>
 
-</details>
 
 <details>
 
@@ -83,7 +79,9 @@ The published version of our 2/22 schedule is located [here](./2_22%20Human-Robo
 
 </details>
 
-</details>
+***
+**End Noble Silence**
+***
 
 <details>
 
@@ -92,8 +90,6 @@ The published version of our 2/22 schedule is located [here](./2_22%20Human-Robo
 - Participants engage in partner-based feedback with a therapy-style chatbot.
 - Practice active listening and reflection using robot-human dialogue.
 - Marks the closing of the silent portion of the retreat.
-
-</details>
 
 </details>
 
@@ -106,3 +102,15 @@ The published version of our 2/22 schedule is located [here](./2_22%20Human-Robo
 - Gentle close to the retreat, fostering inner calm and closure.
 
 </details>
+
+### Schedule Motivations
+
+The retreat is designed to start loud, with the introduction right into the folie cacophony, then transition into inward-looking, silent mindfulness, then return back to the "real world" with a high-energy exercise routine and group reflection. By structuring the retreat in this format, the transitions between exercises feel natural, and meaningful for participants.
+
+During the noble silence, participants are only allowed to communicate through non-verbal actions, and the only audio is the robots, human facilitators, or other media played during this section. This is designed to force self-reflection, awareness, and causes participants to slow down as a result, which is the goal of this experience. 
+
+
+**Related Links/Media:**
+[The Power of Quiet: Why Silence Really Is Golden, Deann Zampelli](https://www.montecitojournal.net/2024/12/03/the-power-of-quiet-why-silence-really-is-golden/)
+[7 Benefits of Silence: Why We Need Less Noise, Whisper Room](https://www.whisperroom.com/blog/7-benefits-of-silence-why-we-need-less-noise#:~:text=Silence%20gives%20us%20the%20space,not%20just%20quiet%E2%80%94it's%20clarity.&text=Insight%3A%20When%20we%20turn%20down,we%20turn%20up%20internal%20insight.)
+[Slowing Down Is A Superpower](https://coryallen.substack.com/p/slowing-down-is-a-superpower) (requires a SubStack membership)
