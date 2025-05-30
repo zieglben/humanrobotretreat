@@ -13,11 +13,6 @@ Importantly, the retreat structure is modular, allowing facilitators to modify a
 
 The published version of our 2/22 schedule is located [here](./2_22%20Human-Robot%20Meditation%20Retreat%20II.pdf), and is as follows:
 
-<object data="./2_22%20Human-Robot%20Meditation%20Retreat%20II.pdf" type="application/pdf" width="750px" height="750px">
-    <embed src="./2_22%20Human-Robot%20Meditation%20Retreat%20II.pdf" type="application/pdf">
-    </embed>
-</object>
-
 <details>
 
 **<summary>0:00–0:10 — Welcome & Setting Intention</summary>**
