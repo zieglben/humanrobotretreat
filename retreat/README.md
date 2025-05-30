@@ -7,9 +7,11 @@ The structure for our deployments was modeled after a certain style of group min
 
 While many retreats are designed as weekend getaways, the schedule we developed fits within a 3-hour window and went through two iterations to reach its final form below. The 3-hour session balances participant engagement and robot operational limits, while allowing enough time for transition and individual, silent reflection. While a longer session would give participants more time to interact with the robots, it is also important to consider the robot battery life, audience attention span, and effectiveness of a longer session. With our time developing the robot programs, we found that longer sessions without human intervention often lost the attention of the participants, which helped us reach the timing in our schedule below. 
 
-Importantly, the retreat structure is modular, allowing facilitators to modify and add to the experience as needed. Each segment can be used independently, which supports future template development, modular design, and broader adoption by non-technical audiences. The retreat schedule is as follows:
+Importantly, the retreat structure is modular, allowing facilitators to modify and add to the experience as needed. Each segment can be used independently, which supports future template development, modular design, and broader adoption by non-technical audiences.
 
 ##  Retreat Schedule (3 Hours)
+
+The published version of our 2/22 schedule is located [here](./2_22%20Human-Robot%20Meditation%20Retreat%20II.pdf), and is as follows:
 
 <details>
 
@@ -104,4 +106,3 @@ Importantly, the retreat structure is modular, allowing facilitators to modify a
 - Gentle close to the retreat, fostering inner calm and closure.
 
 </details>
-
