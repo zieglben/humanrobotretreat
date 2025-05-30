@@ -109,8 +109,13 @@ The retreat is designed to start loud, with the introduction right into the foli
 
 During the noble silence, participants are only allowed to communicate through non-verbal actions, and the only audio is the robots, human facilitators, or other media played during this section. This is designed to force self-reflection, awareness, and causes participants to slow down as a result, which is the goal of this experience. 
 
+By design, this silence also forces participants to be more aware and mindful of their actions, as they can only express themselves through action. This is a common form of mindfulness, physical mindfulness, which uses the body as an anchor. Common exercises of physical mindfulness include noticing the way one's body feels when it is moved and making decisive, intentional movements. 
+
+Coming out of the noble silence, participants often appear to be in a lighter mood, less stressed, and overall more connected with themselves and those around them. 
+
 
 **Related Links/Media:**
 [The Power of Quiet: Why Silence Really Is Golden, Deann Zampelli](https://www.montecitojournal.net/2024/12/03/the-power-of-quiet-why-silence-really-is-golden/)
 [7 Benefits of Silence: Why We Need Less Noise, Whisper Room](https://www.whisperroom.com/blog/7-benefits-of-silence-why-we-need-less-noise#:~:text=Silence%20gives%20us%20the%20space,not%20just%20quiet%E2%80%94it's%20clarity.&text=Insight%3A%20When%20we%20turn%20down,we%20turn%20up%20internal%20insight.)
 [Slowing Down Is A Superpower](https://coryallen.substack.com/p/slowing-down-is-a-superpower) (requires a SubStack membership)
+[21 Mindfulness Exercises & Activities for Adults,  Courtney E. Ackerman, MA.](https://positivepsychology.com/mindfulness-exercises-techniques-activities/)
