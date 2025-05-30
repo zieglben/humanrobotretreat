@@ -73,8 +73,8 @@ Meditation and mindfulness practices have gained popularity in recent years, esp
     Dev Iteration 1          :dev1, 2024-11-8, 2024-12-13
 
     section Winter 2025
-    Winter Break             :done, break, after dev1, 2025-01-06
-    Dev Iteration 1          :dev12, 2025-01-06, until retreat1
+    Winter Break             :done, break, 2024-12-13, 2025-01-06
+    Dev Iteration 1          :dev12, 2025-01-06, 2025-02-02
     Feb 2 Winter Retreat 1   :crit, milestone, retreat1, 2025-02-02, 0d
     Dev Iteration 2          :dev2, after retreat1, until retreat2
     Feb 22 Winter Retreat 2         :crit, milestone, retreat2, 2025-02-22, 0d
