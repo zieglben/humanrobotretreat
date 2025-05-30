@@ -37,6 +37,3 @@ In this section as shown in ```MiniPupper2/run_exercise.py```, the Pupper loops 
 The human facilitator experimented with variations to jogging in place, including high knees and buttkickers, which kept participants engaged in the activity. The facilitator also guided participants to find a spot on the floor to anchor to and perform the directional changes in reference to that point. Using this exocentric instruction assisted in keeping the group aligned, minimized space concerns between participants, and made it easier to align the Mini-Pupper. There is no video for this portion, as the robot had difficulties with alignment and would often drift in one direction or another, requiring frequent adjustments by the facilitator. This drifting problem did not happen when testing prior to deployment, but changes in the floor material likely exacerbated this issue.
 
 ### Set Up Instructions
-
-> **Important:**   
-> Since the implementation of the Mini-Pupper 2 that we used was stored locally on the CHARISMA Lab's robot, please refer to the [Stanford Quadruped implementation on the MangDang Robotics Club Github](https://github.com/mangdangroboticsclub/StanfordQuadruped) for instructions on how to set up the robot. Each of the programs is run using Python 3. 
