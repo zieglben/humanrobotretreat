@@ -2,6 +2,8 @@
 
 This closing exercise was designed by the CHARISMA Robotics Lab, in collaboration with OPeNs Lab, to combine music, relaxation, and mindful closure.
 
+![Octodrum](https://github.com/user-attachments/assets/7cb34de9-3c71-44e3-abf8-3c0084db627b)
+
 ## Overview
 
 Time: 2:45–3:00
