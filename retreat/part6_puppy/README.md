@@ -22,13 +22,13 @@ _Each application is broken into repeatable sub-sections, with time for rest in 
 
 Outlined in [```run_warmup.py```](./run_warmup.py), the Pupper uses its body to simulate human head movement to guide the audience to stretch their neck in sync with the robot. While the robot does not have a movable head like humans do, this movement pattern is easily recognizable for participants, as it changes the direction the robot is looking, which is easily translatable to the human body. The routine starts with simple up, down, left, right head movements, follows up with head circles, and ends with body tilts. The body tilts roughly translate to leaning from the torso for a human. 
 
-[**Click to play the warmup demonstration video.**](https://drive.google.com/file/d/1OVnpunN8wKPfg2uUSVJMXKQ-1nels47n/view?usp=sharing)
+[![Image](https://github.com/user-attachments/assets/57ea9e56-5efe-486c-ae4a-6bb7c0eed98c)](https://drive.google.com/file/d/1OVnpunN8wKPfg2uUSVJMXKQ-1nels47n/view?usp=sharing)
 
 ### Yoga 
 
 In this section outlined in [```run_yoga.py```](./run_yoga.py), the Pupper gets more involved, guiding the audience through a simple yoga routine starting with cat/cow, then moving into leg/arm lifts. We experimented with a dead-bug-style leg movement with the robot laying on its back, but it proved to be more confusing than intended during our second deployment. This is included in the file, however. 
 
-[**Click to play the yoga demonstration video.**](https://drive.google.com/file/d/17yOVXQMNxOAIIpIXIQHCdugtXRzkFfx8/view?usp=sharing)
+[![Image](https://github.com/user-attachments/assets/3a8af20a-bbf1-4d79-8b88-3ecdf345f334)](https://drive.google.com/file/d/17yOVXQMNxOAIIpIXIQHCdugtXRzkFfx8/view?usp=sharing)
 
 ### Exercise Routine
 
