@@ -44,7 +44,7 @@ Meditation and mindfulness practices have gained popularity in recent years, esp
 - Robot-led guided meditation with gestures, voice, and music
 - Two robots with different body shapes displaying emotional and visual feedback to participants
   - Humanoid (Pepper)
-  - Quadroped (Mini-Pupper)
+  - Quadruped (Mini-Pupper)
 - Real time, in-person voice and gesture additional guidance from the human facilitators
 - Customizable meditation exercises using scripts and modular code
 
