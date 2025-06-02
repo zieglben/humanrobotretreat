@@ -1,12 +1,17 @@
 # Puppy Mindfulness with Mini Pupper
 
-This exercise was developed by the Capstone Team by Ben Ziegler and Yen-Ting Chou to explore embodied interaction through movement, using a quadruped robot to support playful mindfulness and physical awareness.
+This exercise was developed by Ben Ziegler and Yen-Ting Chou in the Capstone team to explore embodied interaction through movement, using a quadruped robot to support playful mindfulness and physical awareness.
 
 ## Overview
 
 Time: 1:45 - 2:15
 
 Activity: Mindful Movement with Puppy Robot
+
+> **Important:**
+> As the human facilitator, consider introducing this section with a comparison between the capabilities of the Mini Pupper coordinate system with those of a human. It may also be interesting to generate a script using ChatGPT, to see what AI has to say about this comparison.
+
+> Please also guide participants to find a comfortable spot in the room, lay down a yoga mat or towel, and prepare to be active for this section. The warmup is designed to be completed standing up. 
 
 ## Code/File Structure
 
