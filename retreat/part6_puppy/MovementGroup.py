@@ -566,6 +566,7 @@ class MovementGroups:
         
         return self.MovementLib
 
+    ############# Developed by CS Capstone Team 2024-2025 #############
     def downward_dog_first(self, time_uni = 1, time_acc = 1):
         """Let robot descend or ascend a given height
         Args:
@@ -689,6 +690,8 @@ class MovementGroups:
         dance_scheme.setAllSequence(dance_all_legs,dance_speed,dance_attitude)
         self.MovementLib.append(dance_scheme)      # append dance
         return self.MovementLib
+    
+    ########### End of Developed by CS Capstone Team 2024-2025 ###########
 
 
 
