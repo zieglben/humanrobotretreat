@@ -22,6 +22,9 @@ The retreat concludes with a closing message:
 
 "Remember today's experience and keep your peace of mind going forward. It’s okay also if your gears are sometimes frenetically turning. Remember your anchors."
 
+>**Important:**
+> If you do not have access to an OctoDrum or similar experience, consider playing a brief nature audio, final meditation exercise, or other soothing sounds.
+
 ### Purpose
-This final session provides grounding, relaxation, and a mindful transition as participants prepare to carry the retreat’s lessons forward.
+This final session provides grounding, relaxation, and a mindful transition as participants prepare to carry the retreat’s lessons forward. Shavasana is intended to release all tension within your body, so guide participants to be fully relaxed.
 
