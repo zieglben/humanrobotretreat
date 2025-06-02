@@ -1,10 +1,14 @@
-# Folies description
+#  Robot Cowboy Folies: An Exercise in Cacophony and Noticing
 
 The folies activity is used to let out stress and emotion through noise and story telling. The group will tell a story with a centeralized person acting as a conductor and others playing the parts of the characters. For this retreat formate we performed a story about a robot cowboy named Rusty (The Heroic Tale of Rusty the Robot). Notes on how to create new stories are in (Sonify working notes) and (Stories with audience interaction). 
 
+![Folies picture ChatGPT gen](https://github.com/user-attachments/assets/18d59ae1-589c-48ca-83b6-d5da3264f176)
+**ChatGPT generated image**
 ## Overview
 
 Time: 0:10 - 0:30 
+
+Activity: Robot Cowboy Folies - Storytelling in group
 
 ### Creation of a Story
 
