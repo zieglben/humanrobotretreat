@@ -12,8 +12,12 @@ Activity: Introduce the project group members, and using AI generated voice to i
 
 We created visual behavior flows using **Choregraphe**, Aldebaran's official visual programming IDE for the Pepper robot. These behaviors were used to introduce participants to the retreat, establish an embodied presence, and transition them smoothly into the mindfulness portion of the experience.
 
-#### Demo Video
+#### Demo Videos
 
+##### Live Demo
+[![image](https://github.com/user-attachments/assets/8c2ef940-af9b-4a05-8178-0c20b115f372)](https://drive.google.com/file/d/1XQg6iXJKm2g9FYTju6RaRnLxWfT6AOuD/view?usp=sharing)
+
+##### Development Demo (for clarity)
 [![image](https://github.com/user-attachments/assets/8e5cbc5d-68ae-40fc-84d8-cb3734b6683b)](https://drive.google.com/file/d/1aADD2FAXFfMwwHZv9yNaRM3gFjm_T4b8/view?usp=sharing)
 
 #### Design
