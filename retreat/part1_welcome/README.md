@@ -42,7 +42,7 @@ This segment was designed to align with the human MC's pacing and create a welco
 
 #### Set Up Instructions
 
-If this is your first time using the Pepper, please refer to our [first-time setup guide](../../moreInfo/setup/README.md#Pepper Quick Start Guide).
+If this is your first time using the Pepper, please refer to our [first-time setup guide](../../moreInfo/setup/README.md#Pepper-Quick-Start-Guide).
 
 To explore or run this behavior in Choregraphe:
 1. Download the [```Meditation Retreat```](Meditation%20Retreat/) folder in this repository.
