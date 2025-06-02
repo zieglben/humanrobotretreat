@@ -18,6 +18,7 @@ humanrobotretreat/
 │ │ ... # folder for each section
 │ ├── part8_end/ 
 ├── moreInfo/
+│ ├── media/ # contains media from 2/2 and 2/22 retreats
 │ ├── setup/ # getting started guides and helpful resources
 ├── futureWork/
 ```
