@@ -1,6 +1,3 @@
-<!-- README for the overview of the retreat -->
-<!-- NEEDS TO BE UPDATED, NOT COMPLETE -->
-
 # Retreat Structure
 
 The structure for our deployments was modeled after a certain style of group mindfulness, retreats. Retreats are commonly in remote areas, away from distraction and the business of life. Our goal was to create an entirely encapsulated experience and limit distractions from the outside world. The two retreats we held were in a lecture room in the Kelley Engineering Center on the Oregon State University campus. The room we selected had floor to ceiling windows to view the outside world, but offered an enclosed experience for the participants. The presence of these windows aided in the nature portions of the retreat, as detailed below. 
