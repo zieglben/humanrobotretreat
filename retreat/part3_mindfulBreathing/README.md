@@ -27,6 +27,9 @@ Activity: Guided Sitting Meditation with Retreat Facilitator Listening to Calm M
 
 - Participants are reminded that distraction is normal; the key is to gently return attention to the breath when wandering occurs.
 
+> **Important:**
+>Consider using a pre-made script or choose a favorite online meditation resource for conducting a proper mindful breathing routine.
+
 ### Purpose
 This exercise introduces core mindfulness techniques, supported by the certain breathing techniques. By using breath as the anchor, participants are guided to be more aware, grounded, and focused. 
 
