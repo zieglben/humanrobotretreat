@@ -12,3 +12,4 @@ For first time setup, please review the documentation for [Pepper](#pepper-quick
 > **Important:**  
 > Please use **Choregraphe version 2.5.10.7** to ensure full compatibility with the NAOqi SDK and Pepper robot.  
 > Other versions may cause compatibility issues or failed deployments.
+> If you want to see the official Choregraphe documentation, please refer to the [ALDEBARAN DOCUMENTATION](http://doc.aldebaran.com/2-4/software/choregraphe/index.html#id1) for instructions on how to use the program definitely.
