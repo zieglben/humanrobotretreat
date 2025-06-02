@@ -40,9 +40,8 @@ The human facilitator experimented with variations to jogging in place, includin
 
 ## Set Up Instructions
 
-> **Important:**   
-> Since the implementation of the Mini-Pupper 2 that we used was stored locally on the CHARISMA Lab's robot, please refer to the [Stanford Quadruped implementation on the MangDang Robotics Club Github](https://github.com/mangdangroboticsclub/StanfordQuadruped) for instructions on how to setup the robot.
+If this is your first time using the Mini Pupper 2, please refer to our [first-time setup guide](../../moreInfo/setup/README.md#mini-pupper-quick-start-guide).
 
-Once you have set up the robot according to the [Stanford Quadruped setup instructions](https://github.com/mangdangroboticsclub/StanfordQuadruped/?tab=readme-ov-file#mini-pupper), replace the default ```MovementGroup.py``` file in the ```src/``` folder with [our implementation](./MovementGroup.py), and put [```run_warmup.py```](./run_warmup.py), [```run_yoga.py```](./run_yoga.py), and [```run_exercise.py```](./run_exercise.py) in the top-level folder.
+Once you have set up the robot according to our setup guide using the [Stanford Quadruped implementation](https://github.com/mangdangroboticsclub/StanfordQuadruped?tab=readme-ov-file#mini-pupper), replace the default ```MovementGroup.py``` file in the ```src/``` folder with [our implementation](./MovementGroup.py), and put [```run_warmup.py```](./run_warmup.py), [```run_yoga.py```](./run_yoga.py), and [```run_exercise.py```](./run_exercise.py) in the top-level folder.
 
 To run the program, connect to your robot through ```ssh```, open the terminal, and run ```python3 ./run_(program_here).py```.
