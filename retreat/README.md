@@ -22,7 +22,7 @@ The published version of our 2/22 schedule is located [here](./2_22%20Human-Robo
 
 <details>
 
-**<summary>0:10–0:30 — [Robot Cowboy Folies: An Exercise in Cacophony and Noticing](./part2_folies/README.md)</summary>**
+**<summary>0:10–0:30 — [Robot Cowboy Folies: An Exercise in Cacophony and Noticing](./part2_folies)</summary>**
 
 - Audience reads a Hero’s Journey script alongside LLM-generated sound cues.
 - Focus on the emotional impact of sound and storytelling.
@@ -35,7 +35,7 @@ The published version of our 2/22 schedule is located [here](./2_22%20Human-Robo
 ***
 <details>
 
-**<summary> 0:30–1:00 — [Mindful Breathing with Robot: An Exercise in Silence and Noticing](./part3_mindfulBreathing/README.md)</summary>**
+**<summary> 0:30–1:00 — [Mindful Breathing with Robot: An Exercise in Silence and Noticing](./part3_mindfulBreathing)</summary>**
 
 - Guided breath meditation with soft, calming voice.
 - Transitions into the silent portion of the retreat.
@@ -45,7 +45,7 @@ The published version of our 2/22 schedule is located [here](./2_22%20Human-Robo
 
 <details>
 
-**<summary> 1:00–1:15 — [Silent Nature Witnessing: Reflection and Collection](./part4_nature/README.md)</summary>**
+**<summary> 1:00–1:15 — [Silent Nature Witnessing: Reflection and Collection](./part4_nature)</summary>**
 
 - Participants walk silently outside, observing the natural world mindfully.
 - Tasked with bringing back a found object for robotic VLM (Vision-Language Model) analysis.
@@ -56,7 +56,7 @@ The published version of our 2/22 schedule is located [here](./2_22%20Human-Robo
 
 <details>
 
-**<summary> 1:15–1:45 — [RAIN Guided Meditation: Technology & Nature](./part5_RAIN/README.md)</summary>**
+**<summary> 1:15–1:45 — [RAIN Guided Meditation: Technology & Nature](./part5_RAIN)</summary>**
 
 - A guided meditation inspired by Tara Brach’s R.A.I.N. technique.
 - Combination of Pepper’s custom intro and human-guided audio.
@@ -67,7 +67,7 @@ The published version of our 2/22 schedule is located [here](./2_22%20Human-Robo
 
 <details>
 
-**<summary> 1:45–2:15 — [Puppy Robot Facilitated Mindful Movement](./part6_puppy/README.md)</summary>**
+**<summary> 1:45–2:15 — [Puppy Robot Facilitated Mindful Movement](./part6_puppy)</summary>**
 
 - Quadruped-human movement mirroring activities.
 - Includes yoga-inspired stretching followed by upbeat, exercise-based movement (e.g., Jane Fonda-style cardio).
@@ -82,7 +82,7 @@ The published version of our 2/22 schedule is located [here](./2_22%20Human-Robo
 
 <details>
 
-**<summary> 2:15–2:45 — [Almost Closing Circle: Group Sharing & End of Silence](./part7_closing/)</summary>**
+**<summary> 2:15–2:45 — [Almost Closing Circle: Group Sharing & End of Silence](./part7_closing)</summary>**
 
 - Participants engage in partner-based feedback with a therapy-style chatbot.
 - Practice active listening and reflection using robot-human dialogue.
@@ -92,7 +92,7 @@ The published version of our 2/22 schedule is located [here](./2_22%20Human-Robo
 
 <details>
 
-**<summary> 2:45–3:00 — [Meditation & Integration](./part8_end/README.md)</summary>**
+**<summary> 2:45–3:00 — [Meditation & Integration](./part8_end)</summary>**
 
 - Guided relaxation session with ocean sounds and robotic drum rhythms.
 - Encourages participants to let go of tension and integrate their experience.
