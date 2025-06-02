@@ -1,4 +1,4 @@
-## Closing & Speaker/Listener: Group Sharing & Contemplation with CharismaBot
+## Closing & CharismaBot: Group Sharing & Contemplation
 
 This exercise was developed by the CHARISMA Robotics Lab as part of their ongoing work in exploring human-AI interaction for contemplative practices.
 
