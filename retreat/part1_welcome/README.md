@@ -1,6 +1,6 @@
 # Welcome & Setting Intention
 
-The exercise was developed by Park Kwon-ho of the Capstone team to start Pepper, it focuses participants' eyes to help them start our retreat stably. Initiates the 3 hours retreat by welcoming on the participants and appreciate their time to participation. Starting off with introducing the team, the project, and the two robots, sharing our aim and the flow of the retreat with the participants. We also suggested participants to stay with us till the end to maximize the experience but they can leave on will.
+The exercise was developed by KweonHo Park of the Capstone team to start Pepper, it focuses participants' eyes to help them start our retreat stably. Initiates the 3 hours retreat by welcoming on the participants and appreciate their time to participation. Starting off with introducing the team, the project, and the two robots, sharing our aim and the flow of the retreat with the participants. We also suggested participants to stay with us till the end to maximize the experience but they can leave on will.
 
 ## Overview
 
