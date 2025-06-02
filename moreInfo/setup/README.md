@@ -10,6 +10,6 @@ For first time setup, please review the documentation for [Pepper](#pepper-quick
 ## Pepper Quick Start Guide
 
 > **Important:**  
-> Please use **Choregraphe version 2.5.10.7** to ensure full compatibility with the NAOqi SDK and Pepper robot.  
+> Please use [**Choregraphe version 2.5.10.7**](https://community-static.aldebaran.com/resources/2.5.10/Choregraphe/choregraphe-suite-2.5.10.7-win32-setup.exe) to ensure full compatibility with the NAOqi SDK and Pepper robot, and put _654e-4564-153c-6518-2f44-7562-206e-4c60-5f47-5f45_ for the license key.  
 > Other versions may cause compatibility issues or failed deployments.
 > If you want to see the official Choregraphe documentation, please refer to the [ALDEBARAN DOCUMENTATION](http://doc.aldebaran.com/2-4/software/choregraphe/index.html#id1) for instructions on how to use the program definitely.
