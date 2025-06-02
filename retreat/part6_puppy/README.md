@@ -58,3 +58,6 @@ If this is your first time using the Mini Pupper 2, please refer to our [first-t
 Once you have set up the robot according to our setup guide using the [Stanford Quadruped implementation](https://github.com/mangdangroboticsclub/StanfordQuadruped?tab=readme-ov-file#mini-pupper), replace the default ```MovementGroup.py``` file in the ```src/``` folder with [our implementation](./MovementGroup.py), and put [```run_warmup.py```](./run_warmup.py), [```run_yoga.py```](./run_yoga.py), and [```run_exercise.py```](./run_exercise.py) in the top-level folder.
 
 To run the program, connect to your robot through ```ssh```, open the terminal, and run ```python3 ./run_(program_here).py```.
+
+>**Important:**
+> Robot setup takes time and often has bugs during live demos, so please be prepared and ensure the programs run by setting up prior to the start of this section.
