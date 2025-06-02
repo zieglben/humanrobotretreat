@@ -58,6 +58,9 @@ To explore or run this behavior in Choregraphe:
 
 After Pepper greets everyone, we intorduces Mini-Pupper and the team working on it with entertaining AI-generated audio. The idea is to attract interest while provide as many information about the quadraped robot. 
 - Simply run the audio on your computer connecting to a speaker (.wav file located in sub folder named pupper_intro1_final.wav)
+
+**[Text to speech AI tool - Elevenlabs](https://elevenlabs.io/app/speech-synthesis/text-to-speech)**
+
 - Possible Extension: implement the audio into Mini-Pupper with action
 
 Note: the script can be modified using online AI audio generate service based on preferences or needs
