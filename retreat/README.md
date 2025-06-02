@@ -12,7 +12,7 @@ The published version of our 2/22 schedule is located [here](./2_22%20Human-Robo
 
 <details>
 
-**<summary>0:00–0:10 — [Welcome & Setting Intention](./part1_welcome/README.md)</summary>**
+**<summary>0:00–0:10 — [Welcome & Setting Intention](./part1_welcome)</summary>**
 
 - Pepper and Mini-Pupper welcome participants and introduce the retreat experience.
 - Icebreaker activity led by the MC to build rapport and set a group intention.
