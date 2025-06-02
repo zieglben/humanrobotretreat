@@ -19,5 +19,10 @@ Each pair takes turns speaking and listening, supported by CharismaBot, who assi
 
 After a small group practice, participants return to the full circle for group sharing, reflecting on both human-AI and human-human interactions.
 
+> **Important:**
+> This section is designed to be a debrief, so if you do not have access to an AI-powered speaker-listener tool, consider asking participants for their feedback in a group-discussion format. 
+
+>One format used during the 2/2 retreat was good, bad, weird, in which we asked participants to say one good thing, one bad thing, and one weird thing about their experience. This often sparks conversation across the group, so moderate as needed.
+
 ### Purpose
 The exercise helps participants experience mindful communication, develop deeper listening skills, and explore the role of AI in supporting contemplation and dialogue. This section also helps provide feedback for the retreat organizers, whhich is helpful for an iterative design model.
