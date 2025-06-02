@@ -13,7 +13,7 @@ Activity: Group Sharing & Contemplation
 
 ### Flow
 
-Participants split into breakout groups to practice the Speaker-Listener model using the CharismaBot, an AI counseling tool developed by students in the CHARISMA lab.
+Participants split into breakout groups to practice the Speaker-Listener model using the CharismaBot, an AI counseling tool developed by Nadir Isweesi and Shrirang Patil in the CHARISMA lab.
 
 Each pair takes turns speaking and listening, supported by CharismaBot, who assists with thought witnessing.
 
