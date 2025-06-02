@@ -4,11 +4,11 @@ We created visual behavior flows using **Choregraphe**, Aldebaran's official vis
 
 ### Demo Video
 
-[![Image](https://github.com/user-attachments/assets/7e4054ba-1306-4098-870b-7194af78a018)](https://drive.google.com/file/d/1aADD2FAXFfMwwHZv9yNaRM3gFjm_T4b8/view?usp=sharing)
+[![image](https://github.com/user-attachments/assets/8e5cbc5d-68ae-40fc-84d8-cb3734b6683b)](https://drive.google.com/file/d/1aADD2FAXFfMwwHZv9yNaRM3gFjm_T4b8/view?usp=sharing)
 
 ### Design
 
-![Image](https://github.com/user-attachments/assets/7ac53606-d26e-4ad6-bb74-faefed2d34bc)
+![image](https://github.com/user-attachments/assets/b3c9be40-29cb-4177-a4df-80937b5242e3)
 
 **Flow Summary:**  
 Pepper begins by greeting the audience with a wave and introducing the day’s intention.  
