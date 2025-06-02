@@ -1,6 +1,6 @@
 # RAIN Guided Meditation
 
-This section of the retreat features a guided mindfulness exercise using the R.A.I.N. meditation technique—a practice developed by Tara Brach to help participants explore difficult emotions with compassion and awareness. "RAIN" stands for Recognize, Allow, Investigate, and Nurture.
+This section of the retreat designed by the Eliane Wang of Capstone team, featuring a guided mindfulness exercise using the R.A.I.N. meditation technique—a practice developed by Tara Brach to help participants explore difficult emotions with compassion and awareness. "RAIN" stands for Recognize, Allow, Investigate, and Nurture.
 
 ![group meditation](https://github.com/user-attachments/assets/09dc582d-b0f8-4777-b515-9b097a8be84f)
 
