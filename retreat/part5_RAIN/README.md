@@ -6,7 +6,7 @@ This section of the retreat features a guided mindfulness exercise using the R.A
 
 Time: 1:15 - 1:45
 
-Activity: Participants were guided through the meditation using a combination of Pepper's introductory script and a pre-recorded human narration of the RAIN practice. The use of both robot and human voices offered a balance of novelty and grounding, helping participants stay focused and emotionally engaged.
+Activity: Participants were guided through the meditation using a combination of the human facilitators' introduction and a pre-recorded human narration of the RAIN practice. The use of two different voices and introductions offered a balance of novelty and grounding, helping participants stay focused and emotionally engaged.
 
 ## Purpose
 
@@ -14,7 +14,7 @@ The RAIN meditation was selected for its alignment with the retreat’s themes o
 
 ## Implementation
 
-Audio Track: A pre-recorded version of Tara Brach’s RAIN meditation played following Pepper’s introduction.
+Audio Track: A pre-recorded version of Tara Brach’s RAIN meditation played following the introduction.
 
 Environment: The room was kept quiet, dimly lit, and distraction-free to support inward focus. Participants were seated or lying down with eyes closed.
 
