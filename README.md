@@ -106,5 +106,6 @@ CHARISMA Robotics Lab
 - Shrirang Patil - patilshr@oregonstate.edu
 - Luke Sanchez - sanchluk@oregonstate.edu
 - Nadir Isweesi - isweesin@oregonstate.edu
+- Bessie He - heyux@oregonstate.edu
 
 ![retreat team](https://github.com/user-attachments/assets/77d1fb80-701d-434a-aa41-ea6c2ea10378)
