@@ -16,7 +16,7 @@ Audio Track: A pre-recorded version of Tara Brach’s RAIN meditation played fol
 
 Environment: The room was kept quiet, dimly lit, and distraction-free to support inward focus. Participants were seated or lying down with eyes closed.
 
-## WHy It Worked
+## Why It Worked
 
 RAIN helped participants process their silent nature experience and re-center emotionally before returning to group activities.
 Additionally, participants reported feeling calmer, more aware, and more present after the session.
