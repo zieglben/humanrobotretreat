@@ -16,6 +16,19 @@ If writting isn't a practice skill you have or are low on time it is suggested t
 
 The story is to be created with noise in mind. Making sound effects out of random everyday objects such as cards, broom, rocks, metal baskets, anthing you can think of, or is in reach, can and should be used. Improvasation must be incorraged. We're not creating a cinima master piece. Our goal is to let some noise out and have fun. 
 
+### Flow/Instructions:
+
+1. Guide participants in a circle sitting
+2. Ask volunteer or pick participants for reading/acting the scripts
+
+  **Note: Facilitator should take role if no one willing to take part**
+
+3. Distribute tools for sound corresponding to script
+
+  **Note: Have non script readers or the corresponding readers holding the tools**
+
+4. Have fun
+
 ### Have fun
 
 The folies activity pairs well with quieter activities to create a sense of contrast. Letting all the noise out from everyday life and then taking a chance to relax and forget about them for a short time. 
