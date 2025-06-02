@@ -101,4 +101,10 @@ Meditation and mindfulness practices have gained popularity in recent years, esp
 - Dr. Heather Knight - heather.knight@oregonstate.edu,
 CHARISMA Robotics Lab
 
+**CHARISMA Robotics Lab Partners:**
+- Chirag Mukesh Jain - jainch@oregonstate.edu
+- Shrirang Patil - patilshr@oregonstate.edu
+- Luke Sanchez - sanchluk@oregonstate.edu
+- Nadir Isweesi - isweesin@oregonstate.edu
+
 ![retreat team](https://github.com/user-attachments/assets/77d1fb80-701d-434a-aa41-ea6c2ea10378)
