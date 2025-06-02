@@ -1,4 +1,4 @@
-## Clsoing & Speaker/Listener: Group Sharing & Contemplation
+## Closing & Speaker/Listener: Group Sharing & Contemplation with CharismaBot
 
 This exercise was developed by the CHARISMA Robotics Lab as part of their ongoing work in exploring human-AI interaction for contemplative practices.
 
@@ -13,11 +13,11 @@ Activity: Group Sharing & Contemplation
 
 ### Flow
 
-Participants split into breakout groups to practice the Speaker-Listener model.
+Participants split into breakout groups to practice the Speaker-Listener model using the CharismaBot, an AI counseling tool developed by students in the CHARISMA lab.
 
-Each pair takes turns speaking and listening, supported by a custom-developed AI that assists with thought witnessing.
+Each pair takes turns speaking and listening, supported by CharismaBot, who assists with thought witnessing.
 
-After small group practice, participants return to the full circle for group sharing, reflecting on both human-AI and human-human interactions.
+After a small group practice, participants return to the full circle for group sharing, reflecting on both human-AI and human-human interactions.
 
 ### Purpose
-The exercise helps participants experience mindful communication, develop deeper listening skills, and explore the role of AI in supporting contemplation and dialogue.
+The exercise helps participants experience mindful communication, develop deeper listening skills, and explore the role of AI in supporting contemplation and dialogue. This section also helps provide feedback for the retreat organizers, whhich is helpful for an iterative design model.
