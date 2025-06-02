@@ -1,10 +1,12 @@
 # RAIN Guided Meditation
 
-## Overview
-
 This section of the retreat features a guided mindfulness exercise using the R.A.I.N. meditation technique—a practice developed by Tara Brach to help participants explore difficult emotions with compassion and awareness. "RAIN" stands for Recognize, Allow, Investigate, and Nurture.
 
-For this session, participants were guided through the meditation using a combination of Pepper's introductory script and a pre-recorded human narration of the RAIN practice. The use of both robot and human voices offered a balance of novelty and grounding, helping participants stay focused and emotionally engaged.
+## Overview
+
+Time: 1:15 - 1:45
+
+Activity: Participants were guided through the meditation using a combination of Pepper's introductory script and a pre-recorded human narration of the RAIN practice. The use of both robot and human voices offered a balance of novelty and grounding, helping participants stay focused and emotionally engaged.
 
 ## Purpose
 
