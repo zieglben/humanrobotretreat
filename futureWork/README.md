@@ -23,7 +23,17 @@ Drawing from their time developing the program and knowledge of programming, the
 
 # Next Steps
 
-### Retreat Tour
+## Online Mindfulness
+
+One of the ideas we had for this project was to create an online mindfulness experience using the implementations we created for the in-person experience. We did not reach this goal, however, but there were two videos created for an online representation of the puppy mindfulness section, geared towards emulating the in-person experience. The split view used for these videos assists in bridging the gap between the robot's movements and the expected human movement. 
+
+### Warmup
+[![image](https://github.com/user-attachments/assets/02d3beb6-ab0e-44bc-bb8f-5711282eca5d)](https://drive.google.com/file/d/1OVnpunN8wKPfg2uUSVJMXKQ-1nels47n/view?usp=sharing)
+
+### Yoga
+[![image](https://github.com/user-attachments/assets/bb0110a2-38d3-43b1-9848-1b2dbbd6f3fe)](https://drive.google.com/file/d/17yOVXQMNxOAIIpIXIQHCdugtXRzkFfx8/view?usp=sharing)
+
+## Retreat Tour
 
 The human robot retreat may host the retreat with other universities due to interest generated at ICRA.
 
