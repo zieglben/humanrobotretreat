@@ -1,6 +1,6 @@
 # Puppy Mindfulness with Mini Pupper
 
-This exercise was developed by Ben Ziegler and Yen-Ting Chou in the Capstone team to explore embodied interaction through movement, using a quadruped robot to support playful mindfulness and physical awareness.
+This exercise was developed by Ben Ziegler and Yen-Ting Chou in the Capstone team, in collaboration with Chirag Mukesh Jain in the CHARISMA lab, to explore embodied interaction through movement, using a quadruped robot to support playful mindfulness and physical awareness.
 
 ## Overview
 
