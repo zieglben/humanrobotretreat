@@ -3,8 +3,6 @@
 ## Intro
 [![image](https://github.com/user-attachments/assets/8c2ef940-af9b-4a05-8178-0c20b115f372)](https://drive.google.com/file/d/1XQg6iXJKm2g9FYTju6RaRnLxWfT6AOuD/view?usp=sharing)
 
-<iframe src="https://drive.google.com/file/d/1XQg6iXJKm2g9FYTju6RaRnLxWfT6AOuD/preview" width="640" height="480" allow="autoplay"></iframe>
-
 ## Robot Cowboy Folies
 [![image](https://github.com/user-attachments/assets/0163a58b-28ce-4f72-995d-a3818e8483a9)](https://drive.google.com/file/d/1nYY12w8lVigwNt4y75e3sOd0R3_zCQwk/view?usp=sharing)
 
